@@ -1,1 +1,1 @@
-successfully cloned repo!
+You successfully cloned the repo!
